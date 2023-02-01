@@ -1,4 +1,4 @@
-const { LOCALE } = require("../util/EvobotUtil");
+const { LOCALE } = require("../util/bmc");
 const i18n = require("i18n");
 const fs = require("fs");
 
