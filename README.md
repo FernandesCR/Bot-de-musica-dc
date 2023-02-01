@@ -1,4 +1,4 @@
-Fiz algumas mudanças como add o express, alguns comando e informações 
+Fiz algumas mudanças como add o express e alguns comando e informações 
 
 ## 📝 Creditos
 
